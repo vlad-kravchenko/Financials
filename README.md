@@ -1,2 +1,1 @@
-# Financials
-Parsing of the main financial symbols
+Данные берутся с сайта ru.investing.com и разбираются вручную через AngleSharp + Newtonsoft
